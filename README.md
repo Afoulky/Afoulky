@@ -3,7 +3,7 @@
         <img src="./assets/hi.gif" width="39px" />
     </h1>
     <div align="center">
-        <img style="border-radius: 50%; box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 3px 3px rgba(0, 0, 0, 0.14);" src="assets/logo.png" width="175px"/>
+        <img src="assets/logo.svg" width="175px"/>
     </div>
     <h2><img src="./assets/developer.gif" width="45px" /> About Me:</h2>
     <span> - 😄 I'm a 21 year old man<br></span>
