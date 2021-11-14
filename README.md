@@ -3,7 +3,7 @@
         <img src="./assets/hi.gif" width="39px" />
     </h1>
     <div align="center">
-        <img src="assets/logo.svg" width="175px"/>
+        <img src="assets/logo-rounded.png" width="175px"/>
     </div>
     <h2><img src="./assets/developer.gif" width="45px" /> About Me:</h2>
     <span> - 😄 I'm a 21 year old man<br></span>
