@@ -21,11 +21,15 @@
     </a>
     <h2>My Stats <img src="https://visitor-badge.glitch.me/badge?page_id=Afoulky.Afoulky&left_text=Profile%20views" /> </h2>
     <p align="center">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Afoulky&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=My%20Github%20Stats" />
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Afoulky&theme=radical" />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Afoulky&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20Github%20Stats" />
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Afoulky&theme=algolia" />
     </p>
     <p align="center">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afoulky&layout=compact&count_private=true&theme=radical" />
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Afoulky&theme=radical" />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afoulky&layout=compact&count_private=true&theme=algolia" />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Afoulky&theme=algolia" />
+    </p>
+    <h2>Random quote</h2>
+    <p>
+        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=algolia&layout=socrates" />
     </p>
 </div>
