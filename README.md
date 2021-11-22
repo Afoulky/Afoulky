@@ -16,6 +16,9 @@
     <a href="https://twitter.com/afoulky_">
         <img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%" />
     </a>
+    <a href="https://t.me/Afoulky/">
+        <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="5%" />
+    </a>
     <a href="https://dsc.bio/afoulky">
         <img src="https://img.icons8.com/color/48/000000/discord.png" width="5%" />
     </a>
