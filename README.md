@@ -5,11 +5,11 @@
     <div align="center">
         <img src="assets/logo-rounded.png" width="175px"/>
     </div>
-    <h2><img src="./assets/developer.gif" width="45px" /> About Me:</h2>
+    <h2><img src="./assets/developer.gif" width="45px" /> - About Me:</h2>
     <span> - 😄 I'm a 21 year old man<br></span>
     <span> - 💻 I’m currently studying Computer Science at <a href="https://github.com/epita">EPITA</a><br></span>
     <span> - ⚡ Fun fact: My pseudo means "beautiful" in <a href="https://en.wikipedia.org/wiki/Shilha_language">Tashelhit</a> (Amazigh/Berber language of Morocco)<br></span>
-    <h2>📫 How to reach me:</h2>
+    <h2> 🤙 - Contact me:</h2>
     <a href="https://www.linkedin.com/in/afoulky">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%" />
     </a>
@@ -22,7 +22,7 @@
     <a href="https://dsc.bio/afoulky">
         <img src="https://img.icons8.com/color/48/000000/discord.png" width="5%" />
     </a>
-    <h2>My Stats <img src="https://visitor-badge.glitch.me/badge?page_id=Afoulky.Afoulky&left_text=Profile%20views" /> </h2>
+    <h2>📈 - My Stats <img src="https://visitor-badge.glitch.me/badge?page_id=Afoulky.Afoulky&left_text=Profile%20views" /> </h2>
     <p align="center">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Afoulky&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20Github%20Stats" />
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Afoulky&theme=algolia" />
