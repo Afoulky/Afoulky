@@ -8,8 +8,11 @@
     <h2><img src="./assets/developer.gif" width="45px" /> - About Me:</h2>
     <span> - 😄 I'm a 22 year old man<br></span>
     <span> - 💻 I’m currently studying Computer Science and IT Engineering at <a href="https://github.com/epita">EPITA</a><br></span>
-    <span> - ⚡ Fun fact: My pseudo means "beautiful" in <a href="https://en.wikipedia.org/wiki/Shilha_language">Tashelhit</a> (Amazigh/Berber language of Morocco)<br></span>
+    <span> - ⚡ Fun fact: My pseudo means "beauty" or "beautiful" in <a href="https://en.wikipedia.org/wiki/Shilha_language">Tashelhit</a> (Amazigh/Berber language of Morocco)<br></span>
     <h2> 🤙 - Contact me:</h2>
+    <a href="mailto:hafhous75@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/000000/composing-mail.png" width="5%" />
+    </a>
     <a href="https://www.linkedin.com/in/afoulky">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%" />
     </a>
@@ -33,6 +36,6 @@
     </p>
     <h2>Random quote</h2>
     <p>
-        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=algolia&layout=socrates" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&layout=socrates" />
     </p>
 </div>
