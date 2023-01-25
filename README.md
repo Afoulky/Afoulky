@@ -9,6 +9,7 @@
     <span> - 😄 I'm a 22 year old man<br></span>
     <span> - 💻 I’m currently studying Computer Science and IT Engineering at <a href="https://github.com/epita">EPITA</a><br></span>
     <span> - ⚡ Fun fact: My pseudo means "beauty" or "beautiful" in <a href="https://en.wikipedia.org/wiki/Shilha_language">Tashelhit</a> (Amazigh/Berber language of Morocco)<br></span>
+    <span> - <img src="https://www.shareicon.net/data/32x32/2015/09/16/101867_archlinux_512x512.png" width="2%" /> I use Arch btw!<br></span>
     <h2> 🤙 - Contact me:</h2>
     <a href="mailto:hafhous75@gmail.com">
         <img src="https://img.icons8.com/fluency/48/000000/composing-mail.png" width="5%" />
