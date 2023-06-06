@@ -6,7 +6,7 @@
         <img src="assets/logo-rounded.png" width="175px"/>
     </div>
     <h2><img src="./assets/developer.gif" width="45px" /> - About Me:</h2>
-    <span> - 😄 I'm a 22 year old man<br></span>
+    <span> - 😄 I'm a 23 year old man<br></span>
     <span> - 💻 I’m currently studying Computer Science and IT Engineering at <a href="https://github.com/epita">EPITA</a><br></span>
     <span> - ⚡ Fun fact: My pseudo means "beauty" or "beautiful" in <a href="https://en.wikipedia.org/wiki/Shilha_language">Tashelhit</a> (Amazigh/Berber language of Morocco)<br></span>
     <span> - <img src="https://www.shareicon.net/data/32x32/2015/09/16/101867_archlinux_512x512.png" width="2%" /> I use Arch btw!<br></span>
