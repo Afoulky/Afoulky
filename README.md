@@ -23,7 +23,7 @@
     <a href="https://t.me/afoulky">
         <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="5%" />
     </a>
-    <a href="https://dsc.bio/afoulky">
+    <a href="https://discord.bio/afoulky">
         <img src="https://img.icons8.com/color/48/000000/discord.png" width="5%" />
     </a>
     <h2>📈 - My Stats <img src="https://komarev.com/ghpvc/?username=Afoulky" /> </h2>
